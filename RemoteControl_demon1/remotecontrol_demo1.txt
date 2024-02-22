@@ -1,0 +1,6 @@
+//
+AVR control remote
+//
+device: Atmega328p
+//
+main.c
